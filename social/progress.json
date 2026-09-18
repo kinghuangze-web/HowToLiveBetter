@@ -1,9 +1,204 @@
 {
-  "version": 1,
+  "version": 2,
   "repository": "kinghuangze-web/HowToLiveBetter",
   "branch": "main",
-  "current_chapter": 1,
-  "next_item": 1,
   "default_batch_size": 5,
+  "rotation_index": 0,
+  "chapter_queue": [
+    5,
+    3,
+    4,
+    14,
+    2,
+    1,
+    13,
+    8,
+    6,
+    24,
+    19,
+    23,
+    15,
+    7,
+    22,
+    10,
+    12,
+    21,
+    16,
+    17,
+    28,
+    29,
+    30,
+    20,
+    18,
+    27,
+    31,
+    32,
+    9,
+    11,
+    26,
+    25
+  ],
+  "chapter_state": {
+    "10": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "11": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "12": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "13": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "14": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "15": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "16": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "17": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "18": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "19": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "20": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "21": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "22": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "23": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "24": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "25": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "26": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "27": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "28": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "29": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "30": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "31": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "32": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "01": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "02": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "03": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "04": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "05": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "06": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "07": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "08": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    },
+    "09": {
+      "next_item": 1,
+      "next_issue": 1,
+      "status": "active"
+    }
+  },
   "last_generated_batch": null
 }
