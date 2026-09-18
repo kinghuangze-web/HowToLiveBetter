@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "repository": "kinghuangze-web/HowToLiveBetter",
+  "branch": "main",
+  "current_chapter": 1,
+  "next_item": 1,
+  "default_batch_size": 5,
+  "last_generated_batch": null
+}
