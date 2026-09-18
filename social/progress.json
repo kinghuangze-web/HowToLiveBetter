@@ -3,7 +3,7 @@
   "repository": "kinghuangze-web/HowToLiveBetter",
   "branch": "main",
   "default_batch_size": 5,
-  "rotation_index": 0,
+  "rotation_index": 1,
   "chapter_queue": [
     5,
     3,
@@ -175,8 +175,8 @@
       "status": "active"
     },
     "05": {
-      "next_item": 1,
-      "next_issue": 1,
+      "next_item": 6,
+      "next_issue": 2,
       "status": "active"
     },
     "06": {
@@ -200,5 +200,18 @@
       "status": "active"
     }
   },
-  "last_generated_batch": null
+  "last_generated_batch": {
+    "chapter": 5,
+    "issue": 1,
+    "item_ids": [
+      "05-01",
+      "05-02",
+      "05-03",
+      "05-04",
+      "05-05"
+    ],
+    "collection_title": "高性价比指南 · 少花冤枉钱（第一期）",
+    "status": "generated",
+    "generated_at": "2026-09-18"
+  }
 }
